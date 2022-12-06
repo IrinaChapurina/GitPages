@@ -5,4 +5,4 @@
 Любимый фрукт - *мандарины*
 Любимое время года - *зима*
 
-https://yandex.ru/images/search?p=1&source=serp&text=фото+аниме+на+аву&pos=57&rpt=simage&img_url=http%3A%2F%2Fcoolsen.ru%2Fwp-content%2Fuploads%2F2021%2F12%2F167-20211222_191733.jpg&lr=47
+![image](https://user-images.githubusercontent.com/97689565/205965198-989c7ea1-eb23-4852-8089-49a18d82b2b8.png)
